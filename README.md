@@ -132,8 +132,6 @@ Additional neuronal populations were examined to identify broader expression pat
 
 ### Oxidative Stress Gene Expression Across Adult Neurons
 
-![Oxidative Stress Gene Expression](figures/oxidative_stress_dotplot.png)
-
 **Figure 1.** Dot plot showing expression of oxidative stress–associated genes across adult *C. elegans* neuronal populations. Dot size represents the proportion of cells expressing the gene, while color intensity indicates scaled transcript abundance.
 
 ### Key Findings
